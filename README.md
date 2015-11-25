@@ -1,0 +1,2 @@
+# OCManager
+OpenCorpus Manager
